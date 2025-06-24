@@ -1,4 +1,4 @@
-# Steve Avatar: AI-Powered Lip-Sync Video Generator (CPU-Only)
+# AvatarSync Pro: AI-Powered Lip-Sync Video Generator (CPU-Only)
 
 ✨ **Steve Avatar** is a lightweight, CPU-compatible implementation of the powerful [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) model that generates lip-synced avatar videos using just an image and an audio file. Perfect for creating talking-head videos, virtual characters, and personalized content — even on low-resource machines like Google Colab CPU.
 
